@@ -5,4 +5,7 @@ const userRoutes = require('./user-routes.js');
 
 router.use('/users', userRoutes);
 
+// needs post routes
+// needs comment routes
+
 module.exports = router;
