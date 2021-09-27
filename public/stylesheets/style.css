@@ -8,6 +8,7 @@ body, html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
+  background-color: #333333;
 }
 
 a {
@@ -22,7 +23,7 @@ a:hover {
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #333333;
   border: 0;
   padding: 1%;
   color: white;
@@ -97,7 +98,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #225ca3;
+  color: #fff5eb;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
